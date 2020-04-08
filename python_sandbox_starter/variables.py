@@ -27,9 +27,9 @@ a = x + y
 
 #Casting (Here, we're able to change the type of an integer value)
 
-x = str(x)          #Changoing the type of x from 'int' to 'string'
-y = int(y)          #Changoing the type of y from 'float' to 'int' so it'll print out as 2 instead of 2.5
-z = float(y)        #Changoing the type of x from 'int' back to 'float', so now it'll print out as 2.0
+x = str(x)          #Changing the type of x from 'int' to 'string'
+y = int(y)          #Changing the type of y from 'float' to 'int' so it'll print out as 2 instead of 2.5
+z = float(y)        #Changing the type of x from 'int' back to 'float', so now it'll print out as 2.0
 
 #print (x, y, name, is_cool, a)
 print (type(y), y)

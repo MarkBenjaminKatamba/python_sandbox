@@ -30,7 +30,7 @@ print(s.lower())
 # Swap case
 print(s.swapcase())
 
-# Get lenght (gets the length of the string)
+# Get length (gets the length of the string)
 print(len(s)) 
 
 # Replace
