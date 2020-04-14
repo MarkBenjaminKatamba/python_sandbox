@@ -4,7 +4,7 @@
 fruits = ('Apples', 'Oranges', 'Grapes')
 # fruits2 = tuple(('Apples', 'Oranges', 'Grapes'))   #Not recommended still
 
-#One thing to remember with tuples is that fi you only have one value, you need to leave a trailing comma, e.g below
+#One thing to remember with tuples is that if you only have one value, you need to leave a trailing comma, e.g below
 fruits2 = ('Apples',)
 # print(fruits2, type(fruits2))
 
